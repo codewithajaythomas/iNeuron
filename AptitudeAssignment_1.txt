@@ -1,0 +1,14 @@
+1. The equations of the lines x=2 & y=4 meet at the point ............
+Ans. The lines x = 2 and y = 4 meet at the point (2, 4).
+
+2. Equations 2X+3Y=9 & 7X+9Y=-6 have how many solutions?
+Ans. This solution is unique, because the two equations intersect at a single point.
+
+3. Equation 7x+9y=-5 has how many keys?
+Ans. The equation 7x+9y=-5 has an infinite number of solutions. This is because it is a linear equation, and linear equations have an infinite number of solutions.
+
+4. Equation ax^2+bx+c=0 will be ............. for a=b=c=0 .
+Ans. Equation ax^2+bx+c=0  will be undefined for a=b=c=0 
+
+5. Income of A & B is in ratio 2:3. For example, if B’s income is Rs 3000, find out the ratio of their expenditures if their savings are Rs 500 & Rs 700,respectively.
+Ans. The ratio of A and B's expenditures is 3:4.
